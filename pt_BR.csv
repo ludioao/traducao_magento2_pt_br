@@ -2459,8 +2459,8 @@ The fewest you may purchase is %1.,O mínimo que você pode comprar é %1.
 Please correct the quantity for some products.,"Por favor, corrija a quantidade para alguns produtos."
 The most you may purchase is %1.,O máximo que você pode comprar é %1.
 "We don't have as many ""%1"" as you requested.","Não temos o total de ""%1"" que você solicitou."
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Produto ""%1"" sob encomenda. Adicionaremos %2 ao pedido."
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Produto ""%1"" sob encomenda. Adicionaremos %2 ao pedido."
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","O produto ""%1"" Estará em produção após o fechamento do pedido. Considere 10 dias úteis adicionais ao prazo de entrega. Adicionaremos %2 ao pedido."
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","O produto ""%1"" Estará em produção após o fechamento do pedido. Considere 10 dias úteis adicionais ao prazo de entrega. Adicionaremos %2 ao pedido."
 You can buy %1 only in quantities of %2 at a time.,Você pode comprar %1 somente em quantidades de %2 de cada vez.
 You can buy this product only in quantities of %1 at a time.,Você pode comprar este produto apenas em quantidades de %1 de cada vez.
 Decimal qty increments is not allowed.,Incrementos de quantidades decimais não são permitidos.
